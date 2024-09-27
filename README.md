@@ -4,7 +4,7 @@ I'm Mohammed Shahid C, a dedicated Full Stack Developer specializing in the MERN
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niha.l._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihal-karimbil-391189316/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mh_shahid?igsh=OXkzNTg2YzRlMnR6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-shahid-85aa42315) 
 
 ## 💻 front-end:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
@@ -22,6 +22,6 @@ I'm Mohammed Shahid C, a dedicated Full Stack Developer specializing in the MERN
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-### contact for more:- [LinkedIn](https://linkedin.com/in/nihal-karimbil-391189316/)
+### contact for more:- [LinkedIn](https://www.linkedin.com/in/mohammed-shahid-85aa42315)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
